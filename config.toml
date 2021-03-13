@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-
+baseURL = "https://eightm.vercel.app/"
 languageCode = "en"
 title = "Eightm"
 theme = "hargo"
