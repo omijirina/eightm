@@ -53,7 +53,7 @@ material:
 advantage:
   enable : true
   title : "Advantages Of Using <br> Our Product"
-  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
+  subtitle : "Consistencia de crema ultraligera y sin aceite"
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
