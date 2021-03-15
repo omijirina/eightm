@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://eightm.vercel.app/"
 languageCode = "en"
-title = "Ninyy"
+title = "Eightm"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
