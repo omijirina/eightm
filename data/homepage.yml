@@ -1,9 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Best Beauty Cream For Your Skin"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed dia"
+  title : "HIDRATANTES Y CREMAS"
+  content : "Hidratación revitalizante y revitalizante de día y de noche"
   image : "images/banner.png"
   # button
   button:
@@ -19,49 +18,36 @@ banner:
 about:
   enable : true
   title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
+  content : "La crema hidratante Hydreane Legere de la marca francesa de cosmética médica La Roche-Posay está diseñada para reducir la sensibilidad de la piel y eliminar el problema de la deshidratación.La fórmula revolucionaria de la crema presentada contiene exclusivos agentes hidrofijantes que penetran en las capas más profundas de la epidermis y proporcionan un aumento en el nivel de saturación de humedad. Además, los hidrofixers en combinación con agua termal calman y relajan la piel, reducen su sensibilidad.
+La consistencia ultraligera y sin aceite de Hydreane Legere está formulada teniendo en cuenta las características"
   image : "images/about.png"
 
-
-###################### Call to action ########################
-cta:
-  enable : true
-  title : "Buy one Get One Free Taba Cream"
-  content : "Available for limited time only. Grab one while you still can!"
-  image : "images/cta.png"
-  overlayImage : "images/cta-overlay.png"
-  button:
-    label : "All Products"
-    link : "products"
 
 ######################## raw material #######################
 material:
   enable : true
   title : "Ingredients Of Our Products"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dol."
+  subtitle : "natural"
   materialItem:
     # material item loop
     - title : "Matcha Seeds"
       image : "images/material/material-1.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "natural"
       
     # material item loop
     - title : "Aloe Vera"
       image : "images/material/material-2.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "natural"
       
     # material item loop
     - title : "Turmeric"
       image : "images/material/material-3.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "natural"
       
     # material item loop
     - title : "Tulshi leaf"
       image : "images/material/material-4.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "natural"
 
 ########################### Advantage #########################
 advantage:
